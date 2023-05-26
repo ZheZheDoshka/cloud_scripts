@@ -1,3 +1,4 @@
+sudo yum install git
 git clone https://github.com/ZheZheDoshka/cloud_scripts
 sudo yum install python3-pip
 pip3 install matplotlib
